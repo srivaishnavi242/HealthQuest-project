@@ -73,6 +73,10 @@ HealthQuest: Personalized Health and Fitness Assistant is a full-stack web appli
 
 ![image](https://github.com/user-attachments/assets/4ae772e5-d7e5-4ef1-b364-78368325fd0d)
 ![image](https://github.com/user-attachments/assets/b61ab5ec-dbf7-4aa5-964c-01829cef5544)
+![image](https://github.com/user-attachments/assets/09bfb4cb-02ff-4d93-9777-49e4d6b6c89e)
+
+![image](https://github.com/user-attachments/assets/f9aaa188-4600-42dc-a268-7571d5c9b06f)
+
 ![image](https://github.com/user-attachments/assets/25aeec5d-22a7-47ba-9bdf-4b9a96a596dd)
 ![image](https://github.com/user-attachments/assets/beaa9fc1-5059-4980-a7c0-ca28f84511eb)
 ![image](https://github.com/user-attachments/assets/4749b81a-b5a0-47a4-83ea-ceedddf658e9)
